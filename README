@@ -1,0 +1,14 @@
+CS 3503 Assignment 1- Number Base Conversion
+
+Author: Paola Di Cesare
+
+Description: My implementation of Owl Tech’s number base conversion utility.
+
+Building Instructions: Started with the methods, and went on to writing the main
+ to read file correctly line by line, and processing each line based on the first keyword
+ which suggest the method to use.
+
+Technologies Used: Used CLion for programming in C.
+
+Challenges and Future Plans: A bit difficult to change to C language,
+structure is similar to Java, however some keywords were tricky, and needed to research.
