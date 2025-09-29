@@ -4,14 +4,14 @@ Author: Paola Di Cesare
 
 Description: My implementation of Owl Tech’s number base conversion utility.
 
-Building Instructions: Started with the methods, and went on to writing the main
- to read file correctly line by line, and processing each line based on the first keyword
- which suggest the method to use.
+Building Instructions: Started with the methods, and went on to write the main
+ to read the file correctly line by line, and process each line based on the first keyword
+ which suggests the method to use.
 
 Technologies Used: Used CLion for programming in C.
 
-Challenges and Future Plans: A bit difficult to change to C language,
-structure is similar to Java, however some keywords were tricky, and needed to research.
+Challenges and Future Plans: A bit difficult to change to the C language,
+The structure is similar to Java; however, some keywords were tricky, and I needed to research.
 
 ************************************************************************************************
 CS 3503 Assignment 2- Data Representation and Mapping
@@ -20,15 +20,16 @@ Author: Paola Di Cesare
 
 Description: Advanced data representation functions for Owl Tech ’s CPU design team .
 
-What ’s New
+What’s New
 - Direct mapping functions ( oct/ hex/ bin)
 - Signed number representations
 - Reused test framework from A1
 
-Building Instructions: Changed main to read both files correctly line by line. Added new methods oct_to_bin,
+Building Instructions: Changed main to read both files correctly, line by line. Added new methods oct_to_bin,
 oct_to_hex hex_to_bin, and to_sign_magnitude, to_ones_complement, and to_twos_compelement.
-revised A1 to perform correctly along with new functions. Needed to research more on octal and
-hexadecimal in order to implement new methods, debugged and test ran succesfully. Understand the functions
-and purpose, but I am dependent of outside help in order to code them properly.
+Revised A1 to perform correctly along with new functions. Needed to research more on octal and
+hexadecimal to implement new methods, debugged, and tested successfully. Understand the functions
+and purpose, but I am dependent on outside help to code them properly.
 
 Test Results: All passed after debugging and fixing output in certain methods.
+
